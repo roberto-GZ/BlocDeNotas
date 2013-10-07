@@ -1,0 +1,9 @@
+C:\Users\Compaq\Desktop\bloc de notas\bloc de notas\bloc de notas\bin\Debug\bloc de notas.exe
+C:\Users\Compaq\Desktop\bloc de notas\bloc de notas\bloc de notas\bin\Debug\bloc de notas.pdb
+C:\Users\Compaq\Desktop\bloc de notas\bloc de notas\bloc de notas\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Compaq\Desktop\bloc de notas\bloc de notas\bloc de notas\obj\x86\Debug\bloc_de_notas.Form1.resources
+C:\Users\Compaq\Desktop\bloc de notas\bloc de notas\bloc de notas\obj\x86\Debug\bloc_de_notas.Properties.Resources.resources
+C:\Users\Compaq\Desktop\bloc de notas\bloc de notas\bloc de notas\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Compaq\Desktop\bloc de notas\bloc de notas\bloc de notas\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Compaq\Desktop\bloc de notas\bloc de notas\bloc de notas\obj\x86\Debug\bloc de notas.exe
+C:\Users\Compaq\Desktop\bloc de notas\bloc de notas\bloc de notas\obj\x86\Debug\bloc de notas.pdb
